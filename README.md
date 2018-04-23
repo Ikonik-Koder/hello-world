@@ -1,2 +1,6 @@
 # hello-world
-Just another repository 
+
+Hi Human!
+
+My name is Nyjel I like to skate
+I also like computer science
